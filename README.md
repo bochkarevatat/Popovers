@@ -1,4 +1,4 @@
 # Работа с HTML-формами
 ## Popovers
-## [![Build status](https://ci.appveyor.com/api/projects/status/o3vy9y1ehp2va5km?svg=true)](https://ci.appveyor.com/project/bochkarevatat/formhtmlhomework)
+## [![Build status](https://ci.appveyor.com/api/projects/status/x2udot8cexp43o63?svg=true)](https://ci.appveyor.com/project/bochkarevatat/popovers)
 ## [git-pages]()
